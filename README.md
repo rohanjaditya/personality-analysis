@@ -7,5 +7,5 @@ I examine whether or not there is a difference in the amount spent on wine by pe
 
 The data set is a result of five marketing campaigns that surveyed customers and recorded their personal details and the amounts spent by them on various product categories.
 
-[https://www.kaggle.com/imakash3011/customer-personality-analysis](Kaggle - Customer Personality Analysis Data Set)
+[Kaggle - Customer Personality Analysis Data Set](https://www.kaggle.com/imakash3011/customer-personality-analysis)
 
